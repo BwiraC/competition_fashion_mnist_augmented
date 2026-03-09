@@ -13,7 +13,7 @@
 ## 🎯 Goal
 
 Build a **deep learning model** capable of correctly classifying
-**30,000 clothing images** (including versions rotated at 45°, 90° and 270°)
+**30,000 clothing images** (including versions rotated)
 into **10 categories**.
 
 ---
