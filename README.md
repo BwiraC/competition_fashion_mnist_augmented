@@ -24,8 +24,8 @@ into **10 categories**.
 |---|---|---|
 | `train_images.zip` | ~122 MB | [⬇ Download](https://github.com/BwiraC/competition_fashion_mnist_augmented/releases/download/V1.0/train_images.zip) |
 | `test_images.zip` | ~24 MB | [⬇ Download](https://github.com/BwiraC/competition_fashion_mnist_augmented/releases/download/V1.0/test_images.zip) |
-| `train_labels_PUBLIC.csv` | ~6 MB | [⬇ Download](train_labels_PUBLIC.csv) |
-| `sample_submission.csv` | ~60 KB | [⬇ Download](sample_submission.csv) |
+| `train_labels_PUBLIC.csv` | ~7 MB | [⬇ Download](train_labels_PUBLIC.csv) |
+| `sample_submission.csv` | ~1 MB | [⬇ Download](sample_submission.csv) |
 
 > 💡 Replace the `#` links with your actual Kaggle / Hugging Face / Google Drive URLs.
 
