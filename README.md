@@ -22,8 +22,8 @@ into **10 categories**.
 
 | File | Size | Link |
 |---|---|---|
-| `train_images.zip` | ~XXX MB | [⬇ Download](#) |
-| `test_images.zip` | ~XXX MB | [⬇ Download](#) |
+| `train_images.zip` | ~24 MB | [⬇ Download](#) |
+| `test_images.zip` | ~129 MB | [⬇ Download](#) |
 | `train_labels_PUBLIC.csv` | ~10 MB | [⬇ Download](#) |
 | `sample_submission.csv` | ~500 KB | [⬇ Download](#) |
 
