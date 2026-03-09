@@ -73,11 +73,11 @@ competition/
 | Test images | **30,000** |
 | Format | PNG 28×28 pixels, grayscale |
 | Classes | 10 |
-| Augmentation | Rotations at 45°, 90°, 270° (randomly selected) |
+| Augmentation | Rotations (randomly selected angles) |
 | Original source | Fashion MNIST (60,000 train / 10,000 test) |
 
-Each original image comes with **2 rotated versions** randomly chosen
-from {45°, 90°, 270°}. The label is identical for all 3 versions.
+Each original image comes with randomly chosen rotation.
+The label is identical for all 3 versions.
 
 ---
 
@@ -201,7 +201,7 @@ for images, labels in train_loader:
 | Train set | 60,000 | **180,000** |
 | Test set | 10,000 | **30,000** |
 | Format | CSV pixel values | **PNG images** |
-| Rotations | None | **45°, 90°, 270°** |
+| Rotations | None | **Randomly choosen angles** |
 | Difficulty | Known score ~92% | **Unknown distribution** |
 
 ---
